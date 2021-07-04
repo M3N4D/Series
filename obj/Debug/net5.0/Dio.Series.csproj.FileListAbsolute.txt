@@ -1,0 +1,15 @@
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/Dio.Series.deps.json
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.json
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.dev.json
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/Dio.Series.dll
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/ref/Dio.Series.dll
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/bin/Debug/net5.0/Dio.Series.pdb
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.AssemblyReference.cache
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfoInputs.cache
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfo.cs
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.CoreCompileInputs.cache
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.dll
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/ref/Dio.Series.dll
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.pdb
+/Users/herculesmenad/Documents/Workz/DIO/Dio.Series/obj/Debug/net5.0/Dio.Series.genruntimeconfig.cache
